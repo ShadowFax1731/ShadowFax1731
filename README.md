@@ -3,9 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies, chess openings and songs(Heavy Metal and Hip-Hop).
-- 🎓 &nbsp; Studying Computer Science and Engineering at Oriental Institute of Science and Technology, Bhopal.
-- 🌱 &nbsp; Learning more about ReactJS, React Native and the MERN Stack(JavaScript Enthusiast).
-- ✍️ &nbsp; Blogging is a hobby alongwith playing Basketball and Football. 
+ 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
