@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies, chess openings and songs(Heavy Metal and Hip-Hop).
+- 🤔 &nbsp; Exploring new technologies, chess openings and songs.
  
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
